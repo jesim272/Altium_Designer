@@ -1,0 +1,20 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 8:51 PM on 02 January, 2020
+*
+* Component Name: 0603SMD_DIODE
+* Component Description: Digikey
+*
+.MODEL 0603SMD_DIODE D
++(
++     IS = 8.9759E-0009
++      N = 5.5525
++     RS = 2.3482
++)
+
+* Spice model 0603SMD_DIODE has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)

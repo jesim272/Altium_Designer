@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-23062010-067691";"";
+"REFERENCE";"A-BL254-EG-G07D";"";
+"TraceParts.PartTitle";"Female header, pitch 2.54mm, straight, single row, 02 - 40 contacts";"";
+"TraceParts.InstanceId";"10-23062010-0676918S19TF065IAF2E3BYUSZAYROS";"";
+"DESIGN";"Female header, pitch 2.54mm, straight, single row, 7 contacts, plating : Gold flash";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:/F_ASSMANN/ASSMANN.010/ASSMANN.010.170/10-23062010-067691";"";
